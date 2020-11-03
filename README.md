@@ -1,12 +1,13 @@
 # Fresh Start | 11ty - Tailwindcss - Webpack
 
-EN - A clean starter setup for you project on 11ty - lightweight, eleventyNavigationPlugin and tailwindcss unused classes purge (only production mode), already included.
-ES - Un iniciador de proyecto para 11ty - liviano, con navegación de Eleventy y purga de clases tailwindcss no utilizadas (solo en modo producción), ya incluidos.
+####EN - A clean starter setup for you project on 11ty - lightweight, eleventyNavigationPlugin and tailwindcss unused classes purge (only production mode), already included.
+
+####ES - Un iniciador de proyecto para 11ty - liviano, con navegación de Eleventy y purga de clases tailwindcss no utilizadas (solo en modo producción), ya incluidos.
 
 ## Features - Características:
 - [11ty](https://www.11ty.io/)
 - [eleventyNavigation](https://github.com/11ty/eleventy-navigation)
-- [Tailwindcss] (https://tailwindcss.com)
+- [Tailwindcss](https://tailwindcss.com)
 - [Webpack](https://webpack.js.org/)
 - [PostCSS](https://postcss.org/)
 - [css-loader](https://www.npmjs.com/package/css-loader)
