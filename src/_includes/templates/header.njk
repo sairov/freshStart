@@ -1,0 +1,15 @@
+<header class="bg-indigo-400 px-8 py-4 flex justify-around items-center shadow-md">
+    <h2 class="text-4xl font-bold text-gray-100"><a href="/">FreshStart<a></h2>
+    {% set navPages = collections.all | eleventyNavigation %}
+    <nav class="">
+        {% for template in navPages %}
+            <a href="{{ template.url | url }}" class="px-2 mx-4 text-gray-100 font-medium border-b-2 
+            border-transparent hover:border-gray-100 pb-1 ease duration-500"  
+            {% if template.url == page.url %} id="active"{% endif %}>
+
+                {{ template.title }}
+                
+            </a>
+        {% endfor %}
+    </nav>
+</header>
