@@ -33,9 +33,9 @@ $ npm start
 ```
 
 You can view the website at the given access URL - Tu sitio se previsualizará en:
-```
-$ browsersync is listening at 🚀 [app]:(http://localhost:8080)
-```
+
+#### browsersync is listening at 🚀 [app](http://localhost:8080): http://localhost:8080
+
 
 ### Build
 
