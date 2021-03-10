@@ -34,7 +34,7 @@ $ npm start
 
 You can view the website at the given access URL - Tu sitio se previsualizará en:
 ```
-$ browsersync is listening at http://localhost:8080
+$ browsersync is listening at 🚀 [app]:(http://localhost:8080)
 ```
 
 ### Build
@@ -43,3 +43,4 @@ $ browsersync is listening at http://localhost:8080
 npm run build
 ```
 
+## ⚡️ [LIVE DEMO](https://haveafreshstart.netlify.app/)
