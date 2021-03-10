@@ -2,7 +2,7 @@
 
 EN - A clean starter setup for you project on 11ty - lightweight, eleventyNavigationPlugin and tailwindcss unused classes purge (only production mode), already included.
 
-ES - Un iniciador de proyecto para 11ty - liviano, con navegación de Eleventy y purga de clases tailwindcss no utilizadas (solo en modo producción), ya incluidos.
+ES - Un boilerplate para iniciar tu proyecto con 11ty - liviano, con navegación de Eleventy y purga de clases tailwindcss no utilizadas (solo en modo producción), ya incluidos.
 
 ## Features - Características:
 - [11ty](https://www.11ty.io/)
